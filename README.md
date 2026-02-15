@@ -69,7 +69,7 @@ It reflects practical skills required for a **Data Analyst role**, including bus
 
 **Tedlapu Abhinav**
 
-* Aspiring Data Analyst passionate about transforming data into actionable insights.
+Aspiring Data Analyst passionate about transforming data into actionable insights.
 
 ---
 
