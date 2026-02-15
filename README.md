@@ -4,7 +4,7 @@
 
 This project focuses on analyzing retail sales data to uncover meaningful business insights related to customer behavior, product performance, sales trends, and profitability.
 
-The goal was to simulate a real-world data analytics workflow — from raw data cleaning to business insight generation and dashboard creation.
+The goal was to simulate a real-world data analytics workflow  from raw data cleaning to business insight generation and dashboard creation.
 
 ---
 
